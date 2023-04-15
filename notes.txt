@@ -18,3 +18,6 @@ GitHub repo
  Public hackathon org and host there
  
 
+TODO
+
+  Make sure that when we complete a battle, return to the encounters level instead of the world map.
