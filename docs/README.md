@@ -1,6 +1,6 @@
 # TODO : Root docs - directory or ToC
 
-##Game Design Ideas List
+## H2 Game Design Ideas List
 
 Description: 
 
