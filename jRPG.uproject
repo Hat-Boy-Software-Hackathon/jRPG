@@ -3,6 +3,16 @@
 	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModularGameplay",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"WindowsNoEditor"
 	]
