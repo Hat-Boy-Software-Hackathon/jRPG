@@ -1,10 +1,10 @@
-# H1 Character Stats Template
+# Character Stats Template
 
 **Name:** Place Holder
 **Role:** DPS / Tank / Healer
 **Aura:** Water / Earth / Fire / Air
 
-## H2 Stats
+## Stats
 
 Health: 9999
 Energy / Mana: 9999 or NULL
@@ -20,9 +20,7 @@ Action Speed: 9999
 Clarity: 9999
 Knowledge: 9999
 
-### H3
-
-**Stats Explanation**
+### Stats Explanation
 
 - Health
     - Overall health pool.
@@ -53,6 +51,6 @@ Knowledge: 9999
 - Knowledge
     - A modifier that will affect the damage of magical damage attacks and abilities. This stat can also affect the duration, effectiveness, and cooldown of a status ability.
 
-## H3 Negations and Resistances, Auras, and Roles
+## Negations and Resistances, Auras, and Roles
 
 [Negations/Resistances/Auras/Roles](types.md)

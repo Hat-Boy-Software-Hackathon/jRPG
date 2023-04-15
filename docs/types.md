@@ -1,6 +1,6 @@
-# H1 Types
+# Types
 
-## H2 Auras
+## Auras
 
 Auras can be *boosted* or *diminished* by items, buffs, debuffs, and level ups.
 
@@ -40,7 +40,12 @@ Casting a move that strengthens an element or is of the same element to a teamma
 
 Casting a move that *strengthens* an element or is of the *same* element to an enemy can strengthen their next attack of that type.
 
-## H2 Roles
+**Element Combinations**
+
+Elements can combine to form new elemental moves. For example, if a enemy or teammate was to cast an earth spell onto a water user, their next water attack
+will be a "Mud" attack. 
+
+## Roles
 
 **Tank**
 
