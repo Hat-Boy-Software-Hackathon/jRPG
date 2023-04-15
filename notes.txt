@@ -1,0 +1,20 @@
+
+
+See a list of boss battles they can select and then jump directly into them.
+
+Narrowly limit our scope to a list of boss battles and instantly jump into the one the player chooses, with the characters the player chooses.
+
+Possibly select from a collection of characters the player has.
+
+Unreal Engine + jRPG Template
+
+Why does the player have a collection of characters?
+What are we doing this boss battle?
+
+Housekeeping:
+
+GitHub repo
+ where?
+ Public hackathon org and host there
+ 
+
