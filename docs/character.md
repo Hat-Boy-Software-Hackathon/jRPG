@@ -54,3 +54,11 @@ Knowledge: 9999
 ## Negations and Resistances, Auras, and Roles
 
 [Negations/Resistances/Auras/Roles](types.md)
+
+## Items
+
+[Items](items.md)
+
+## Back to main
+
+[Main](README.md)

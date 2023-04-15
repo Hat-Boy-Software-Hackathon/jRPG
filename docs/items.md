@@ -55,7 +55,7 @@ Having items with tags on them that indicate which classes they are most useful 
 - Grimoire
 - Wand
 - Staff
-- Ethereal Chains
+- Ethereal Chains   
 
 ## Consumable Items
 
@@ -120,3 +120,15 @@ All food will heal at least a small portion, but different foods can have additi
     - Boosts fire type moves
 - Gum
     - Boosts air type moves
+
+## Character Setup
+
+[Character](character.md)
+
+## Negations and Resistances, Auras, and Roles
+
+[Negations/Resistances/Auras/Roles](types.md)
+
+## Back to main
+
+[Main](README.md)

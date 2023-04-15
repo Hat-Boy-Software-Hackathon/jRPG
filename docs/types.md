@@ -58,3 +58,15 @@ The role of a *DPS* character is to output as much damage as possible. These cha
 **Healer**
 
 The role of a *Healer* character is to support the other characters as much as possible. These characters are an in-between of the Tank and DPS class in terms of resistances and health. These characters tend to be able to survive a hit or two more than DPS characters but still need to watch their health. Healers can be split into two subcategories, warlocks/witches and mages. Warlocks/Witches will be responsible for buffing the team in various ways while also adding debuffs to the enemies. These nasty spellcasters can buff the team by providing move speed, damage buffs, and critical hit buffs while also providing debuffs to the enemy that can range from poison to lower resistances to slower action/movement speed. Mages are oriented to help their team as much as possible. These spellcasters don't have much interest in the enemies but more so their friends in the party. They will be able to heal members of the team either individually or party wide, they can boost movement speed, attack speed, damage output, critical hit chance, resistances, regenerate energy and mana, and boost the dodge chance of characters.
+
+## Character Setup
+
+[Character](character.md)
+
+## Items
+
+[Items](items.md)
+
+## Back to main
+
+[Main](README.md)
