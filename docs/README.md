@@ -1,6 +1,6 @@
 # TODO : Root docs - directory or ToC
 
-##Game Design Ideas List
+## Game Design Ideas List
 
 Description: 
 
@@ -19,3 +19,15 @@ have been "collected". Here are the following ideas for the game design:
 - Status effect moves (sleep, stun, etc)
 - Could do a role select/swap system, for example you could pick a formation (lets use 3-1-3 as an example) where you have 3 tanks 1 healer, 3 dps and you can swap people in and out of those roles (this would be similar to how dungeons are dealt with in some online jRPGMMOs)
 - Super moves (could be something that charges up over time, maybe combo moves or charging a meter)
+
+## Character Setup
+
+[Character](character.md)
+
+## Negations and Resistances, Auras, and Roles
+
+[Negations/Resistances/Auras/Roles](types.md)
+
+## Items
+
+[Items](items.md)
