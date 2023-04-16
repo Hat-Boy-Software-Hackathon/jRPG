@@ -128,6 +128,8 @@ You will then be brought to this menu where you can select the format, skin, FPS
 
 ![mixDownSet](mixdownSet.PNG)
 
+Once you're satisfied with the above screenshot, press "Download". Mixamo will then prepare the download and download it to your machine.
+
 ## How to import 3D models / images in Unreal
 
 
